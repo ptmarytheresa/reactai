@@ -18,7 +18,7 @@ export const getChatCompletion = async (prompt, retries = 2) => {
       },
       {
         headers: {
-          Authorization: `Bearer AIzaSyCo5t3sOHDhXXQoItLRRpiFfUDavyq0_wo`,
+          Authorization: `Bearer your-api-key-here`,
           "Content-Type": "application/json",
         },
       }

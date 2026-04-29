@@ -6,7 +6,7 @@
 // filter the inputs and outputs to prevent harmful or inappropriate content from being generated, and provide options for users to report any issues they encounter with the generated content.
 import axios from 'axios'
 
-const API_KEY = 'AIzaSyDQZ1iSGL6XfUPYI4CNShT-cty9Oi2S-_8'
+const API_KEY = 'your-api-key-here'
 //const API_KEY = ' '
 
 const MODEL_NAME = 'gemini-3-flash-preview'
